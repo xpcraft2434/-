@@ -2,21 +2,15 @@
   "TOKEN": "التوكن",
   "APPLY": {
     "GANGS": {
-      "NAME": "القسم الاول",
-      "BANNER": "https://media.discordapp.net/attachments/918613591584825355/1181626902750953512/Screenshot_25.png?ex=6581becf&is=656f49cf&hm=448d954a729290387b0678392ba3528a8b18de46617cdd2f54b76083cf95f2f9&=&format=webp&quality=lossless&width=1044&height=675",
+      "NAME": "القسم الاول تقديم اداره",
+      "BANNER": "https://cdn.discordapp.com/attachments/1385340506199949382/1385354150413336706/image.png?ex=6857bd58&is=68566bd8&hm=350fa7f6e0694c4eb99d92946e75d1aaac1069feeb744df3e4bf5348ce700730&",
       "DATA": [
         {
-          "name": "تقديم 1",
-          "emoji": "ايموجي",
-          "CHANNEL": "ايدي_الروم",
-          "role": "ايدي_الرتبة"
+          "name": "تقديم اداري",
+          "emoji": "<:static1:1385284819818381452>",
+          "CHANNEL": "1386043725133779045",
+          "role": "1385291277288996975"
         },
-        {
-          "name": "تقديم 2",
-          "emoji": "ايموجي",
-          "CHANNEL": "ايدي_الروم",
-          "role": "ايدي_الرتبة"
-        }
       ]
     },
     "GOV": {
