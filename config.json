@@ -1,8 +1,7 @@
 {
-  "TOKEN": "التوكن",
   "APPLY": {
     "GANGS": {
-      "NAME": "القسم الاول تقديم اداره",
+      "NAME": "تقديم اداره",
       "BANNER": "https://cdn.discordapp.com/attachments/1385340506199949382/1385354150413336706/image.png?ex=6857bd58&is=68566bd8&hm=350fa7f6e0694c4eb99d92946e75d1aaac1069feeb744df3e4bf5348ce700730&",
       "DATA": [
         {
@@ -10,7 +9,7 @@
           "emoji": "<:static1:1385284819818381452>",
           "CHANNEL": "1386043725133779045",
           "role": "1385291277288996975"
-        },
+        }
       ]
     },
     "GOV": {
